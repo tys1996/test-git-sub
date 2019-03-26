@@ -6,7 +6,8 @@
 
 int main()
 {
-	printf("holle");
+	printf("第一次提交测试");
+	printf("第一次更改后提交测试");
 
     return 0;
 }
